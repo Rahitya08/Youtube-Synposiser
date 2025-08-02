@@ -1,0 +1,7 @@
+Flask==3.1.1
+youtube-transcript-api==1.2.1
+yt-dlp==2025.07.21
+transformers==4.54.1
+torch>=2.1.0,<3.0.0
+googletrans==4.0.2
+whisper
